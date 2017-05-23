@@ -25,7 +25,7 @@ function initialize() {
                 var infoWindowContent = "";
 
                 if (showBusTimes) {
-                    var yql = 'http://query.yahooapis.com/v1/public/yql?'
+                    var yql = 'https://query.yahooapis.com/v1/public/yql?'
                         + 'q=' + encodeURIComponent('select * from json where url=@url')
                         + '&url=' + encodeURIComponent("http://padersprinter.de/internetservice/services/passageInfo/stopPassages/stop?stop=" + key_first + "&mode=arrival")
                         + '&format=json&callback=?';
