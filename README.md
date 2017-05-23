@@ -4,6 +4,8 @@ On loading the website, it queries the times from all bus stops which takes quit
 
 You have to refresh the site for the times to update.
 
+Check it out at https://gira-x.github.io/paderborn-bus-stops-google-maps
+
 ## Notes
 
 * The `bus_stops.json` were scraped beforehand, a very long time ago, but I lost the script and don't quite remember where from
