@@ -1,0 +1,1452 @@
+{
+    "1002": {
+        "name": "Neuhäuser Tor",
+        "latitude": "51.7202323",
+        "longitude": "8.748547"
+    },
+    "1003": {
+        "name": "Maspernplatz",
+        "latitude": "51.7235314",
+        "longitude": "8.7523652"
+    },
+    "1030": {
+        "name": "Betriebshof",
+        "latitude": "51.7054584",
+        "longitude": "8.7208636"
+    },
+    "1037": {
+        "name": "Claas",
+        "latitude": "51.694314",
+        "longitude": "8.741903"
+    },
+    "1022": {
+        "name": "Almeweg",
+        "latitude": "51.7111538",
+        "longitude": "8.7220998"
+    },
+    "1046": {
+        "name": "Frankfurter Weg",
+        "latitude": "51.7068818",
+        "longitude": "8.722366"
+    },
+    "1040": {
+        "name": "Damaschkestraße",
+        "latitude": "51.7124575",
+        "longitude": "8.7223095"
+    },"1013": {
+    "name": "Zentralstation",
+    "latitude": "51.7175179",
+    "longitude": "8.749271"
+},
+
+    "1000": {
+        "name": "Hauptbahnhof",
+        "latitude": "51.7128598",
+        "longitude": "8.7404385"
+    },
+    "1020": {
+        "name": "Abtsbrede",
+        "latitude": "51.7094669",
+        "longitude": "8.7439482"
+    },
+    "1025": {
+        "name": "Ausbesserungswerk",
+        "latitude": "51.73647675",
+        "longitude": "8.75023486961338"
+    },
+    "1048": {
+        "name": "Freibad/Schützenplatz",
+        "latitude": "51.7283561",
+        "longitude": "8.7439638"
+    },
+    "1024": {
+        "name": "Am Silberbrink",
+        "latitude": "51.7264453",
+        "longitude": "8.730882"
+    },
+    "1043": {
+        "name": "Elsener Straße",
+        "latitude": "51.7245055",
+        "longitude": "8.7364886"
+    },
+    "1023": {
+        "name": "Am Laugrund",
+        "latitude": "51.7093653",
+        "longitude": "8.7778768"
+    },
+    "1021": {
+        "name": "Almepark",
+        "latitude": "51.7185118",
+        "longitude": "8.7217425"
+    },
+    "1028": {
+        "name": "Barkhauser Straße",
+        "latitude": "51.7020361",
+        "longitude": "8.7169822"
+    },
+    "1026": {
+        "name": "Bahneinschnitt",
+        "latitude": "51.7146437",
+        "longitude": "8.7783434"
+    },
+    "1027": {
+        "name": "Bahnhof Kasseler Tor",
+        "latitude": "51.7159278",
+        "longitude": "8.7614099"
+    },
+    "1031": {
+        "name": "Bischofsteich",
+        "latitude": "51.7258336",
+        "longitude": "8.7543792"
+    },
+    "1034": {
+        "name": "Breslauer Straße",
+        "latitude": "51.7042274",
+        "longitude": "8.7353953"
+    },
+    "1042": {
+        "name": "Elisabethkirche",
+        "latitude": "51.7044344",
+        "longitude": "8.7495153"
+    },
+    "1038": {
+        "name": "Corveyer Weg",
+        "latitude": "51.7108955",
+        "longitude": "8.7788738"
+    },
+    "1032": {
+        "name": "Bonifatiuskirche",
+        "latitude": "51.7379799",
+        "longitude": "8.7578935"
+    },
+    "1041": {
+        "name": "Delpstraße",
+        "latitude": "51.7240045",
+        "longitude": "8.727448"
+    },
+    "1039": {
+        "name": "Dahler Weg",
+        "latitude": "51.7075298",
+        "longitude": "8.7863424"
+    },
+    "1006": {
+        "name": "Detmolder Tor",
+        "latitude": "51.7225366",
+        "longitude": "8.7579269"
+    },
+    "1012": {
+        "name": "Rosentor",
+        "latitude": "51.7148819",
+        "longitude": "8.7521077"
+    },
+    "1045": {
+        "name": "Ferrariweg",
+        "latitude": "51.7315448",
+        "longitude": "8.7439585"
+    },
+    "1035": {
+        "name": "Brukterer Weg",
+        "latitude": "51.7357191",
+        "longitude": "8.7675897"
+    },
+    "1050": {
+        "name": "Fröbelstraße",
+        "latitude": "51.7215342",
+        "longitude": "8.7673782"
+    },
+    "1036": {
+        "name": "Cheruskerstraße",
+        "latitude": "51.726424",
+        "longitude": "8.7613795"
+    },
+    "1005": {
+        "name": "Am Bogen",
+        "latitude": "51.7188533",
+        "longitude": "8.7577501"
+    },
+    "1009": {
+        "name": "Kasseler Straße",
+        "latitude": "51.7164791",
+        "longitude": "8.7596364"
+    },
+    "1008": {
+        "name": "Kamp",
+        "latitude": "51.7167509",
+        "longitude": "8.7563453"
+    },
+    "1044": {
+        "name": "Englische Siedlung",
+        "latitude": "51.7280402",
+        "longitude": "8.7829513"
+    },
+    "1051": {
+        "name": "Fürstenweg",
+        "latitude": "51.729988",
+        "longitude": "8.7414611"
+    },
+    "1049": {
+        "name": "Friedrich-Ebert-Straße",
+        "latitude": "51.7169239",
+        "longitude": "8.7350718"
+    },
+    "1047": {
+        "name": "Frauenklinik",
+        "latitude": "51.7085781",
+        "longitude": "8.7621954"
+    },
+    "1065": {
+        "name": "Im Lohfeld",
+        "latitude": "51.719727",
+        "longitude": "8.7274847"
+    },
+    "1011": {
+        "name": "Rathausplatz",
+        "latitude": "51.7171252",
+        "longitude": "8.7538504"
+    },
+    "1004": {
+        "name": "Gierstor",
+        "latitude": "51.7200676",
+        "longitude": "8.7618383"
+    },
+    "1052": {
+        "name": "Gleiwitzer Straße",
+        "latitude": "51.7056828",
+        "longitude": "8.7397541"
+    },
+    "1010": {
+        "name": "Michaelstraße",
+        "latitude": "51.7195129",
+        "longitude": "8.7542172"
+    },
+    "1029": {
+        "name": "Berliner Ring",
+        "latitude": "51.7186551",
+        "longitude": "8.779349"
+    },
+    "1001": {
+        "name": "Westerntor",
+        "latitude": "51.7165177",
+        "longitude": "8.7469741"
+    },
+    "1007": {
+        "name": "Heiersstraße",
+        "latitude": "51.7224693",
+        "longitude": "8.7579756"
+    },
+    "1033": {
+        "name": "Brauerei",
+        "latitude": "51.6873449",
+        "longitude": "8.7443245"
+    },
+    "1059": {
+        "name": "Heinrichskirche",
+        "latitude": "51.7260845",
+        "longitude": "8.7595493"
+    },
+    "1053": {
+        "name": "Goerdeler Gymnasium",
+        "latitude": "51.7236506",
+        "longitude": "8.7252538"
+    },
+    "1067": {
+        "name": "Im Spiringsfelde",
+        "latitude": "51.7057933",
+        "longitude": "8.7623068"
+    },
+    "1057": {
+        "name": "Gustav-Schultze-Straße",
+        "latitude": "51.7379204",
+        "longitude": "8.7536878"
+    },
+    "1054": {
+        "name": "Goerdeler Straße",
+        "latitude": "51.7235726",
+        "longitude": "8.7244013"
+    },
+    "1055": {
+        "name": "Gottfried-Keller-Weg",
+        "latitude": "51.7228459",
+        "longitude": "8.7804272"
+    },
+    "1066": {
+        "name": "Gertrudenstraße",
+        "latitude": "51.70301895",
+        "longitude": "8.76157969650955"
+    },
+    "1063": {
+        "name": "Hochstiftstraße",
+        "latitude": "51.7089669",
+        "longitude": "8.7812284"
+    },
+    "1069": {
+        "name": "Brüderkrankenhaus",
+        "latitude": "51.710539",
+        "longitude": "8.7608081"
+    },"1068": {
+    "name": "Jahnstraße",
+    "latitude": "51.7211214",
+    "longitude": "8.7393652"
+},
+    "1071": {
+        "name": "Kilianplatz",
+        "latitude": "51.7054255",
+        "longitude": "8.7586493"
+    },
+    "1070": {
+        "name": "Kilianbad",
+        "latitude": "51.7023739",
+        "longitude": "8.7610716"
+    },
+    "1058": {
+        "name": "Heinz Nixdorf Wendeschleife",
+        "latitude": "51.7158551",
+        "longitude": "8.7178177"
+    },"1064": {
+    "name": "Ilseweg",
+    "latitude": "51.7048189",
+    "longitude": "8.7444448"
+},
+    "1074": {
+        "name": "Kolberger Straße",
+        "latitude": "51.7031808",
+        "longitude": "8.7307071"
+    },
+
+
+    "1073": {
+        "name": "Klöcknerstraße",
+        "latitude": "51.7135516",
+        "longitude": "8.7300533"
+    },
+    "1061": {
+        "name": "Hella",
+        "latitude": "51.7042084",
+        "longitude": "8.7106041"
+    },
+    "1062": {
+        "name": "Hilligenbusch",
+        "latitude": "51.7128417",
+        "longitude": "8.7696881"
+    },
+    "1076": {
+        "name": "Langer Weg",
+        "latitude": "51.7216954",
+        "longitude": "8.7722878"
+    },
+    "1060": {
+        "name": "Heinz-Nixdorf-Ring",
+        "latitude": "51.7336137",
+        "longitude": "8.725365"
+    },
+    "1056": {
+        "name": "Grüner Weg",
+        "latitude": "51.7091569",
+        "longitude": "8.7324965"
+    },
+    "1072": {
+        "name": "Kilianstraße",
+        "latitude": "51.7106106",
+        "longitude": "8.7558327"
+    },"1075": {
+    "name": "Kühlhaus",
+    "latitude": "51.6855876",
+    "longitude": "8.7364147"
+},
+    "1081": {
+        "name": "Ludwigsfelder Ring",
+        "latitude": "51.7090366",
+        "longitude": "8.7798799"
+    },
+
+    "1077": {
+        "name": "Leonardstraße",
+        "latitude": "51.7104142",
+        "longitude": "8.743307"
+    },
+    "1078": {
+        "name": "Liegnitzer Straße",
+        "latitude": "51.7073752",
+        "longitude": "8.7424291"
+    },
+    "1080": {
+        "name": "Lothringer Weg",
+        "latitude": "51.7307891",
+        "longitude": "8.7602499"
+    },
+    "1083": {
+        "name": "Meinolfkirche",
+        "latitude": "51.709649",
+        "longitude": "8.750771"
+    },
+    "1082": {
+        "name": "Mälzerstraße",
+        "latitude": "51.7109206",
+        "longitude": "8.7415045"
+    },
+    "1079": {
+        "name": "Lindenweg",
+        "latitude": "51.7080257",
+        "longitude": "8.7605918"
+    },
+    "1084": {
+        "name": "Mönkeloh",
+        "latitude": "51.6848846",
+        "longitude": "8.7129782"
+    },
+    "1087": {
+        "name": "Nordbahnhof",
+        "latitude": "51.7288998",
+        "longitude": "8.7569753"
+    },
+    "1091": {
+        "name": "Parkplatz",
+        "latitude": "51.7166069",
+        "longitude": "8.7147116"
+    },
+    "1100": {
+        "name": "Schulbrede",
+        "latitude": "51.7143689",
+        "longitude": "8.7656922"
+    },
+    "1097": {
+        "name": "Rolandsweg",
+        "latitude": "51.7247375",
+        "longitude": "8.7470274"
+    },
+    "1088": {
+        "name": "Ostfriedhof",
+        "latitude": "51.71840845",
+        "longitude": "8.76760837127636"
+    },
+    "1092": {
+        "name": "Piepenturmweg",
+        "latitude": "51.7205693",
+        "longitude": "8.7754841"
+    },
+    "1085": {
+        "name": "Mörikestraße",
+        "latitude": "51.7264507",
+        "longitude": "8.7773849"
+    },
+    "1086": {
+        "name": "MuseumsForum",
+        "latitude": "51.7325186",
+        "longitude": "8.7364098"
+    },
+    "1089": {
+        "name": "Padersee",
+        "latitude": "51.73336985",
+        "longitude": "8.72833019605584"
+    },
+    "1093": {
+        "name": "Pirolweg",
+        "latitude": "51.7375723",
+        "longitude": "8.7391135"
+    },
+    "1095": {
+        "name": "Querweg",
+        "latitude": "51.7002754",
+        "longitude": "8.758667"
+    },
+    "1096": {
+        "name": "Riemeker Feld",
+        "latitude": "51.7234357",
+        "longitude": "8.7319891"
+    },
+    "1099": {
+        "name": "Schulze-Delitzsch-Straße",
+        "latitude": "51.7165502",
+        "longitude": "8.7750774"
+    },
+    "1094": {
+        "name": "Pontanusstraße",
+        "latitude": "51.7135831",
+        "longitude": "8.7263174"
+    },
+    "1102": {
+        "name": "Schützenplatz Nord",
+        "latitude": "51.7320972",
+        "longitude": "8.7507909"
+    },
+    "1101": {
+        "name": "Schulstraße",
+        "latitude": "51.7172693",
+        "longitude": "8.7414643"
+    },
+    "1098": {
+        "name": "Rotheweg",
+        "latitude": "51.736221",
+        "longitude": "8.7603387"
+    },
+    "1104": {
+        "name": "Sighardstraße",
+        "latitude": "51.7103118",
+        "longitude": "8.7408031"
+    },
+    "1112": {
+        "name": "Uni/Südring",
+        "latitude": "51.7059866",
+        "longitude": "8.7725023"
+    },
+    "1109": {
+        "name": "Tegelweg",
+        "latitude": "51.7841618",
+        "longitude": "8.95277370818129"
+    },
+    "1111": {
+        "name": "Uni/Schöne Aussicht",
+        "latitude": "51.7105427",
+        "longitude": "8.7737697"
+    },
+    "1119": {
+        "name": "Frettholz",
+        "latitude": "51.6855453",
+        "longitude": "8.7399974"
+    },
+    "1117": {
+        "name": "Winfriedstraße",
+        "latitude": "51.7104964",
+        "longitude": "8.7531232"
+    },
+    "1116": {
+        "name": "Wilhelmshöhe",
+        "latitude": "51.733011",
+        "longitude": "8.7261446"
+    },
+    "1108": {
+        "name": "Technisches Rathaus",
+        "latitude": "51.71471725",
+        "longitude": "8.72502100217781"
+    },
+    "1105": {
+        "name": "Stephanusstraße",
+        "latitude": "51.7022451",
+        "longitude": "8.7465461"
+    },
+    "1114": {
+        "name": "Westfleisch",
+        "latitude": "51.68990575",
+        "longitude": "8.74538337012611"
+    },"1113": {
+    "name": "Waldenburger Straße",
+    "latitude": "51.7065528",
+    "longitude": "8.7340507"
+},
+
+    "1118": {
+        "name": "Zementwerk",
+        "latitude": "51.6963488",
+        "longitude": "8.734827"
+    },
+    "1121": {
+        "name": "Le-Mans-Wall",
+        "latitude": "51.7152117",
+        "longitude": "8.7482356"
+    },
+    "1122": {
+        "name": "Schlosswerkstätten",
+        "latitude": "51.74676755",
+        "longitude": "8.70313556271083"
+    },
+    "1115": {
+        "name": "Westfriedhof",
+        "latitude": "51.7179349",
+        "longitude": "8.72644917817875"
+    },
+    "1110": {
+        "name": "Uni/Pohlweg",
+        "latitude": "51.707546",
+        "longitude": "8.7688077"
+    },
+    "1107": {
+        "name": "Südring",
+        "latitude": "51.7037075",
+        "longitude": "8.7656589"
+    },
+    "1106": {
+        "name": "Stettiner Straße",
+        "latitude": "51.7002762",
+        "longitude": "8.7303455"
+    },
+    "1120": {
+        "name": "Zur Schmiede",
+        "latitude": "51.7083298",
+        "longitude": "8.7453342"
+    },
+    "2045": {
+        "name": "Schulzentrum Niesenteich",
+        "latitude": "51.7345621",
+        "longitude": "8.7755982"
+    },
+    "2043": {
+        "name": "Schleswiger Weg",
+        "latitude": "51.7441414",
+        "longitude": "8.7534053"
+    },
+    "2046": {
+        "name": "Senefelder Straße",
+        "latitude": "51.7335093",
+        "longitude": "8.7876258"
+    },
+    "2047": {
+        "name": "Stadtheide",
+        "latitude": "51.73809795",
+        "longitude": "8.76043245506887"
+    },
+    "2034": {
+        "name": "Liethstaudamm",
+        "latitude": "51.7106967",
+        "longitude": "8.7862641"
+    },
+    "2003": {
+        "name": "Anhalter Weg",
+        "latitude": "51.7431548",
+        "longitude": "8.7649406"
+    },
+    "2032": {
+        "name": "Lemgoer Straße",
+        "latitude": "51.7429697",
+        "longitude": "8.7700825"
+    },
+    "2020": {
+        "name": "Friesenweg",
+        "latitude": "51.7459171",
+        "longitude": "8.7504439"
+    },
+    "2005": {
+        "name": "Bayernweg",
+        "latitude": "51.7422386",
+        "longitude": "8.7567716"
+    },
+    "2037": {
+        "name": "Mistelweg",
+        "latitude": "51.7204009",
+        "longitude": "8.8053407"
+    },
+    "2002": {
+        "name": "An der Talle",
+        "latitude": "51.7489656",
+        "longitude": "8.7509871"
+    },
+    "2041": {
+        "name": "Sachsenweg",
+        "latitude": "51.7431157",
+        "longitude": "8.759498"
+    },
+    "2048": {
+        "name": "Stedener Feld",
+        "latitude": "51.7311468",
+        "longitude": "8.7220775"
+    },
+    "2010": {
+        "name": "Bürener Weg",
+        "latitude": "51.7131802",
+        "longitude": "8.7893614"
+    },
+    "2029": {
+        "name": "Kleingärten Dahler Weg",
+        "latitude": "51.704075",
+        "longitude": "8.7943497"
+    },
+    "2040": {
+        "name": "Peckelsheimer Weg",
+        "latitude": "51.7139609",
+        "longitude": "8.796614"
+    },
+    "2019": {
+        "name": "Friedrich-List-Straße",
+        "latitude": "51.7317239",
+        "longitude": "8.7918377"
+    },
+    "2006": {
+        "name": "Biberweg",
+        "latitude": "51.7484665",
+        "longitude": "8.7462869"
+    },
+    "2013": {
+        "name": "Dören Park",
+        "latitude": "51.7347878",
+        "longitude": "8.7884689"
+    },
+    "2024": {
+        "name": "Haustenbecker Straße",
+        "latitude": "51.7438597",
+        "longitude": "8.7475749"
+    },
+    "2011": {
+        "name": "Bussardweg",
+        "latitude": "51.7206504",
+        "longitude": "8.8065371"
+    },
+    "2038": {
+        "name": "Neuenheerser Weg",
+        "latitude": "51.7086728",
+        "longitude": "8.7856364"
+    },
+    "2001": {
+        "name": "Am Niesenteich",
+        "latitude": "51.7356071",
+        "longitude": "8.7726185"
+    },
+    "2000": {
+        "name": "Ahorn-Sportpark",
+        "latitude": "51.72348765",
+        "longitude": "8.71423431395751"
+    },
+    "2021": {
+        "name": "Füllers Heide",
+        "latitude": "51.7507651",
+        "longitude": "8.7653657"
+    },
+    "2042": {
+        "name": "SB-Zentralmarkt",
+        "latitude": "51.7347417",
+        "longitude": "8.7815737"
+    },
+    "2035": {
+        "name": "Lortzingweg",
+        "latitude": "51.740213",
+        "longitude": "8.7656255"
+    },
+    "2017": {
+        "name": "Friedhof Auf dem Dören",
+        "latitude": "51.7374097",
+        "longitude": "8.79019137888362"
+    },
+    "2033": {
+        "name": "Liethberg",
+        "latitude": "51.7145925",
+        "longitude": "8.7870682"
+    },
+    "2009": {
+        "name": "Brücke Vinsebecker Weg",
+        "latitude": "51.7154995",
+        "longitude": "8.7934035"
+    },
+    "2028": {
+        "name": "Kaukenberg",
+        "latitude": "51.7214067",
+        "longitude": "8.79946324429001"
+    },
+    "2007": {
+        "name": "Bonifatiusweg",
+        "latitude": "51.737871",
+        "longitude": "8.7564448"
+    },
+    "2039": {
+        "name": "Oberes Feld",
+        "latitude": "51.702231",
+        "longitude": "8.7128837"
+    },
+    "2036": {
+        "name": "Meinwerkschule",
+        "latitude": "51.73209405",
+        "longitude": "8.77480018023876"
+    },
+    "2018": {
+        "name": "Friedlandweg",
+        "latitude": "51.7423372",
+        "longitude": "8.7675241"
+    },
+    "2012": {
+        "name": "Dörener Feld",
+        "latitude": "51.7370905",
+        "longitude": "8.7848331"
+    },
+    "2031": {
+        "name": "Lagesche Straße",
+        "latitude": "51.7452978",
+        "longitude": "8.7718632"
+    },"2015": {
+    "name": "Eggertstraße",
+    "latitude": "51.7235458",
+    "longitude": "8.7972653"
+},
+
+    "2004": {
+        "name": "Auf der Lieth",
+        "latitude": "51.71296465",
+        "longitude": "8.79562144260502"
+    },
+    "2014": {
+        "name": "Dr.-Mertens-Weg",
+        "latitude": "51.739068",
+        "longitude": "8.7666562"
+    },
+    "2026": {
+        "name": "Im Lichtenfelde",
+        "latitude": "51.7060537",
+        "longitude": "8.7804417"
+    },
+    "2023": {
+        "name": "Gerold",
+        "latitude": "51.7449944",
+        "longitude": "8.7654834"
+    },
+    "2050": {
+        "name": "TÜV",
+        "latitude": "51.74674",
+        "longitude": "8.7470333"
+    },
+    "2053": {
+        "name": "Vinsebecker Weg",
+        "latitude": "51.715402",
+        "longitude": "8.7913489"
+    },
+    "2059": {
+        "name": "Ebbinghauser Weg",
+        "latitude": "51.711433",
+        "longitude": "8.8040495"
+    },
+    "2044": {
+        "name": "Schubertweg",
+        "latitude": "51.7410216",
+        "longitude": "8.7653045"
+    },
+    "2008": {
+        "name": "Borgentreicher Weg",
+        "latitude": "51.7124842",
+        "longitude": "8.7987324"
+    },
+    "2027": {
+        "name": "Ingolstädter Weg",
+        "latitude": "51.7449395",
+        "longitude": "8.7568939"
+    },
+    "2057": {
+        "name": "Württemberger Weg",
+        "latitude": "51.7418874",
+        "longitude": "8.7600554"
+    },
+    "2049": {
+        "name": "Steubenstraße",
+        "latitude": "51.7352237",
+        "longitude": "8.7784933"
+    },
+    "2060": {
+        "name": "Rheder Weg",
+        "latitude": "51.7136465",
+        "longitude": "8.8018392"
+    },
+    "2022": {
+        "name": "Schwabenweg",
+        "latitude": "51.7441829",
+        "longitude": "8.7587898"
+    },
+    "2056": {
+        "name": "Wilseder Weg",
+        "latitude": "51.741685",
+        "longitude": "8.7476784"
+    },
+    "2051": {
+        "name": "Uhlandstraße",
+        "latitude": "51.7271537",
+        "longitude": "8.7837748"
+    },
+    "2055": {
+        "name": "Weißdornweg",
+        "latitude": "51.718131",
+        "longitude": "8.7970017"
+    },
+    "3009": {
+        "name": "Thunebrücke",
+        "latitude": "51.7662371",
+        "longitude": "8.7181555"
+    },
+    "3005": {
+        "name": "Mömmenweg",
+        "latitude": "51.7689315",
+        "longitude": "8.7130521"
+    },
+    "3003": {
+        "name": "Hauptwache",
+        "latitude": "51.7706457",
+        "longitude": "8.7156578"
+    },
+    "3004": {
+        "name": "Infanterieweg",
+        "latitude": "51.7839325",
+        "longitude": "8.7179343"
+    },
+    "3001": {
+        "name": "Einsteinstraße",
+        "latitude": "51.7709685",
+        "longitude": "8.7061563"
+    },
+    "3002": {
+        "name": "Gartenstadt",
+        "latitude": "51.7683513",
+        "longitude": "8.7118040584751"
+    },
+    "3008": {
+        "name": "Stiller Winkel",
+        "latitude": "51.7673108",
+        "longitude": "8.708036"
+    },
+    "3006": {
+        "name": "Pionierweg",
+        "latitude": "51.78065",
+        "longitude": "8.7180058"
+    },
+    "3007": {
+        "name": "Salvatorstraße",
+        "latitude": "51.7744329",
+        "longitude": "8.7146854"
+    },
+    "3000": {
+        "name": "Bahnkreuzung",
+        "latitude": "51.7617419",
+        "longitude": "8.7186192"
+    },
+    "3107": {
+        "name": "Bentelerstraße",
+        "latitude": "51.7431065",
+        "longitude": "8.7261503"
+    },
+    "3113": {
+        "name": "Hatzfelder Platz",
+        "latitude": "51.7476059",
+        "longitude": "8.7152175"
+    },
+    "3112": {
+        "name": "Habichtsweg",
+        "latitude": "51.7656288",
+        "longitude": "8.7309985"
+    },
+    "3111": {
+        "name": "Fischerkamp",
+        "latitude": "51.7500744",
+        "longitude": "8.7165975"
+    },
+    "3105": {
+        "name": "Amtsweg",
+        "latitude": "51.7465708",
+        "longitude": "8.7127682"
+    },
+    "3106": {
+        "name": "An der Kapelle",
+        "latitude": "51.738464",
+        "longitude": "8.7232853"
+    },
+    "3108": {
+        "name": "Dietrichstraße",
+        "latitude": "51.7558947",
+        "longitude": "8.7281074"
+    },
+    "3103": {
+        "name": "Almering",
+        "latitude": "51.7442013",
+        "longitude": "8.7063233"
+    },
+    "3115": {
+        "name": "Husarenstraße",
+        "latitude": "51.7606729",
+        "longitude": "8.7327179"
+    },
+    "3102": {
+        "name": "Albert-Schweitzer-Straße",
+        "latitude": "51.7568954",
+        "longitude": "8.7244209"
+    },
+    "3109": {
+        "name": "Dubelohstraße",
+        "latitude": "51.7507322",
+        "longitude": "8.7274464"
+    },
+    "3119": {
+        "name": "Mastbruch Gaststätte",
+        "latitude": "51.7552639",
+        "longitude": "8.7331129"
+    },
+    "3101": {
+        "name": "Abzweig Fischteiche",
+        "latitude": "51.7431304",
+        "longitude": "8.7310545"
+    },
+    "3127": {
+        "name": "Schloß Neuhaus",
+        "latitude": "51.7457042",
+        "longitude": "8.6995947"
+    },
+    "3120": {
+        "name": "Mastbruch Schule",
+        "latitude": "51.7516899",
+        "longitude": "8.73549"
+    },
+    "3122": {
+        "name": "Schloß Neuhaus Bahnhof",
+        "latitude": "51.7497204",
+        "longitude": "8.7197842"
+    },
+    "3114": {
+        "name": "Hermann-Löns-Stadion",
+        "latitude": "51.75676715",
+        "longitude": "8.69990876688078"
+    },
+    "3117": {
+        "name": "Lerchenweg",
+        "latitude": "51.7669644",
+        "longitude": "8.7289089"
+    },
+    "3130": {
+        "name": "Waldlust",
+        "latitude": "51.7522612",
+        "longitude": "8.7163411"
+    },
+    "3104": {
+        "name": "Am Thunhof",
+        "latitude": "51.7545231",
+        "longitude": "8.7007026"
+    },
+    "3116": {
+        "name": "Kaiser-Heinrich-Straße",
+        "latitude": "51.7458472",
+        "longitude": "8.7225458"
+    },
+    "3121": {
+        "name": "Mastbruch Siedlung",
+        "latitude": "51.7512236",
+        "longitude": "8.7365401"
+    },
+    "3110": {
+        "name": "Fasanenweg",
+        "latitude": "51.7648207",
+        "longitude": "8.7254476"
+    },
+    "3100": {
+        "name": "Adenauerring",
+        "latitude": "51.7549652",
+        "longitude": "8.7160084"
+    },
+    "3118": {
+        "name": "Marienloher Straße",
+        "latitude": "51.7421886",
+        "longitude": "8.723316"
+    },
+    "3132": {
+        "name": "Fürstenallee",
+        "latitude": "51.7361407",
+        "longitude": "8.7275729"
+    },
+    "3131": {
+        "name": "Wilhelmsberg",
+        "latitude": "51.7574151",
+        "longitude": "8.71195314182338"
+    },
+    "3133": {
+        "name": "Reiterpfad",
+        "latitude": "51.7604161",
+        "longitude": "8.7207757"
+    },
+    "3123": {
+        "name": "Merschweg",
+        "latitude": "51.7456699",
+        "longitude": "8.7034883"
+    },
+    "3126": {
+        "name": "Schillerstraße",
+        "latitude": "51.7404045",
+        "longitude": "8.7221542"
+    },
+    "3129": {
+        "name": "Sperberweg",
+        "latitude": "51.7652995",
+        "longitude": "8.7276537"
+    },
+    "3135": {
+        "name": "Mozartstraße",
+        "latitude": "51.7537173",
+        "longitude": "8.7210848"
+    },
+    "3128": {
+        "name": "Sennelagerstraße",
+        "latitude": "51.7583571",
+        "longitude": "8.6625503"
+    },
+    "3124": {
+        "name": "Münsterstraße",
+        "latitude": "51.7458153",
+        "longitude": "8.699891"
+    },
+    "3125": {
+        "name": "Schatenweg",
+        "latitude": "51.750054",
+        "longitude": "8.7310587"
+    },
+    "3134": {
+        "name": "Husarenstraße West",
+        "latitude": "51.7606729",
+        "longitude": "8.7327179"
+    },
+    "3201": {
+        "name": "Marienloh Mitte",
+        "latitude": "51.7645546",
+        "longitude": "8.7869142"
+    },
+    "3202": {
+        "name": "Schlesier Weg",
+        "latitude": "51.7614731",
+        "longitude": "8.7781211"
+    },
+    "3205": {
+        "name": "Von-Dript-Weg",
+        "latitude": "51.7649655",
+        "longitude": "8.7958843"
+    },
+    "3203": {
+        "name": "Senneweg",
+        "latitude": "51.7669687",
+        "longitude": "8.7894694"
+    },
+    "3200": {
+        "name": "Im Vogtland",
+        "latitude": "51.7643126",
+        "longitude": "8.7815184"
+    },
+    "3207": {
+        "name": "Zum Kampe",
+        "latitude": "51.7667655",
+        "longitude": "8.7834429"
+    },
+    "3206": {
+        "name": "Waldweg",
+        "latitude": "51.7586078",
+        "longitude": "8.7756336"
+    },
+    "3300": {
+        "name": "Lippspringer Straße",
+        "latitude": "51.7403684",
+        "longitude": "8.826631"
+    },
+    "3301": {
+        "name": "Papenberg",
+        "latitude": "51.7338293",
+        "longitude": "8.8102971"
+    },
+    "3302": {
+        "name": "Postweg",
+        "latitude": "51.7476223",
+        "longitude": "8.8229172"
+    },
+    "3303": {
+        "name": "Feldmeiers Weg",
+        "latitude": "51.7403022",
+        "longitude": "8.8325204"
+    },
+    "3403": {
+        "name": "Holtgrevenstraße",
+        "latitude": "51.75152165",
+        "longitude": "8.8544816"
+    },
+    "3402": {
+        "name": "Druheimer Straße",
+        "latitude": "51.7494154",
+        "longitude": "8.8496529"
+    },
+    "3500": {
+        "name": "Bergsohle",
+        "latitude": "51.699234",
+        "longitude": "8.8374157"
+    },
+    "3501": {
+        "name": "Brakenberg",
+        "latitude": "51.6983606",
+        "longitude": "8.8463285"
+    },
+    "3502": {
+        "name": "Dahl Post",
+        "latitude": "51.6965277",
+        "longitude": "8.8516602"
+    },
+    "3505": {
+        "name": "Langefeld",
+        "latitude": "51.6993097",
+        "longitude": "8.8310358"
+    },
+    "3503": {
+        "name": "Dahler Heide",
+        "latitude": "51.6999601",
+        "longitude": "8.8414026"
+    },
+    "3507": {
+        "name": "Pastorskamp",
+        "latitude": "51.693042",
+        "longitude": "8.8498738"
+    },
+    "3506": {
+        "name": "Lülingsberg",
+        "latitude": "51.6938014",
+        "longitude": "8.859541"
+    },
+    "3504": {
+        "name": "Iggenhauser Weg",
+        "latitude": "51.6787507",
+        "longitude": "8.8525953"
+    },
+    "3400": {
+        "name": "Bekscher Berg",
+        "latitude": "51.7508858",
+        "longitude": "8.851889"
+    },
+    "3401": {
+        "name": "Buchholz",
+        "latitude": "51.7454953",
+        "longitude": "8.8595576"
+    },
+    "3405": {
+        "name": "Klostergarten",
+        "latitude": "51.7463911",
+        "longitude": "8.8529073"
+    },
+    "3406": {
+        "name": "Roncalliplatz",
+        "latitude": "51.7446649",
+        "longitude": "8.848084"
+    },
+    "3407": {
+        "name": "Alter Herbramer Weg",
+        "latitude": "51.7431369",
+        "longitude": "8.8527818"
+    },
+    "3701": {
+        "name": "Barkhausen",
+        "latitude": "51.6955118",
+        "longitude": "8.7107255"
+    },
+    "3700": {
+        "name": "Am Zollhaus",
+        "latitude": "51.6941739",
+        "longitude": "8.6844759"
+    },
+    "3702": {
+        "name": "Delbrücker Weg",
+        "latitude": "51.694667",
+        "longitude": "8.6810445"
+    },
+    "3703": {
+        "name": "Fixberg",
+        "latitude": "51.6811887",
+        "longitude": "8.6958072"
+    },
+    "3704": {
+        "name": "Im Bruchhof",
+        "latitude": "51.6891086",
+        "longitude": "8.6920843"
+    },
+    "3707": {
+        "name": "Lesteweg",
+        "latitude": "51.6919349",
+        "longitude": "8.6847552"
+    },
+    "3705": {
+        "name": "Im Tigg",
+        "latitude": "51.6883002",
+        "longitude": "8.6964333"
+    },
+    "3708": {
+        "name": "Rummelsberg",
+        "latitude": "51.6936998",
+        "longitude": "8.6904933"
+    },
+    "3711": {
+        "name": "Voessingweg",
+        "latitude": "51.6847132",
+        "longitude": "8.6926298"
+    },
+    "3709": {
+        "name": "Stemberg",
+        "latitude": "51.6934411",
+        "longitude": "8.702299"
+    },
+    "3706": {
+        "name": "Kleestraße",
+        "latitude": "51.7013152",
+        "longitude": "8.6984083"
+    },
+    "3710": {
+        "name": "Triftweg",
+        "latitude": "51.6880128",
+        "longitude": "8.6951134"
+    },
+    "3713": {
+        "name": "Winkelsgarten",
+        "latitude": "51.683659",
+        "longitude": "8.6914748"
+    },
+    "3712": {
+        "name": "Weikenweg",
+        "latitude": "51.6862626",
+        "longitude": "8.6938058"
+    },
+    "3714": {
+        "name": "Zwetschenweg",
+        "latitude": "51.6926026",
+        "longitude": "8.6841778"
+    },
+    "3800": {
+        "name": "Arena / Almeaue",
+        "latitude": "51.7297472",
+        "longitude": "8.7127188"
+    },
+    "3801": {
+        "name": "Am Almerfeld",
+        "latitude": "51.7303226",
+        "longitude": "8.7048272"
+    },
+    "3802": {
+        "name": "Antoniusstraße",
+        "latitude": "51.7297953",
+        "longitude": "8.6869722"
+    },
+    "3804": {
+        "name": "Bohlenweg",
+        "latitude": "51.7375983",
+        "longitude": "8.6881439"
+    },
+    "3805": {
+        "name": "Kirschenkamp",
+        "latitude": "51.7296896",
+        "longitude": "8.6988097"
+    },
+    "3807": {
+        "name": "Elsen Schule",
+        "latitude": "51.7341009",
+        "longitude": "8.683027"
+    },
+    "3808": {
+        "name": "Gasthof Zur Heide",
+        "latitude": "51.7402167",
+        "longitude": "8.6777941"
+    },
+    "3806": {
+        "name": "Elsen Heide",
+        "latitude": "51.7409439",
+        "longitude": "8.6736689"
+    },
+    "3809": {
+        "name": "Gesamtschule",
+        "latitude": "51.7191114",
+        "longitude": "8.79482561439917"
+    },
+    "3810": {
+        "name": "Karl-Arnold-Straße",
+        "latitude": "51.7391949",
+        "longitude": "8.6714377"
+    },
+    "3811": {
+        "name": "Mentropstraße",
+        "latitude": "51.7432787",
+        "longitude": "8.6960798"
+    },
+    "3812": {
+        "name": "Mittelweg",
+        "latitude": "51.7444611",
+        "longitude": "8.6919946"
+    },
+    "3813": {
+        "name": "Mühlenteichstraße",
+        "latitude": "51.7436524",
+        "longitude": "8.6755249"
+    },
+    "3814": {
+        "name": "Obernheideweg",
+        "latitude": "51.739328",
+        "longitude": "8.6672092"
+    },
+    "3815": {
+        "name": "Ostallee",
+        "latitude": "51.7294848",
+        "longitude": "8.7047501"
+    },
+    "3816": {
+        "name": "Sander Straße",
+        "latitude": "51.7463275",
+        "longitude": "8.6697645"
+    },
+    "3817": {
+        "name": "Schrieweshof",
+        "latitude": "51.7349323",
+        "longitude": "8.6901507"
+    },
+    "3818": {
+        "name": "Urbanstraße",
+        "latitude": "51.7319003",
+        "longitude": "8.6856109"
+    },
+    "3820": {
+        "name": "Von-Ketteler-Straße",
+        "latitude": "51.7347082",
+        "longitude": "8.6827017"
+    },
+    "3819": {
+        "name": "Verner Straße",
+        "latitude": "51.7329963",
+        "longitude": "8.6990777"
+    },
+    "3821": {
+        "name": "Wewerstraße",
+        "latitude": "51.7202408",
+        "longitude": "8.6967998"
+    },
+    "3803": {
+        "name": "Blumenstraße",
+        "latitude": "51.731901",
+        "longitude": "8.6911839"
+    },
+    "3900": {
+        "name": "Dirksfeld",
+        "latitude": "51.7598481",
+        "longitude": "8.6685911"
+    },
+    "3901": {
+        "name": "Hagebuttenweg",
+        "latitude": "51.761268",
+        "longitude": "8.6528192"
+    },
+    "3902": {
+        "name": "Hohe Kamp",
+        "latitude": "51.7516819",
+        "longitude": "8.6644235"
+    },
+    "3903": {
+        "name": "Karl-Korthaus-Straße",
+        "latitude": "51.7629238",
+        "longitude": "8.6607941"
+    },
+    "3904": {
+        "name": "Lippesee",
+        "latitude": "51.7565064",
+        "longitude": "8.6620001"
+    },
+    "3905": {
+        "name": "Ostenländer Straße",
+        "latitude": "51.7626199",
+        "longitude": "8.656375"
+    },
+    "3907": {
+        "name": "Sande Kirche",
+        "latitude": "51.7583926",
+        "longitude": "8.6609783"
+    },
+    "3906": {
+        "name": "Sande Friedhof",
+        "latitude": "51.7592466",
+        "longitude": "8.6562862"
+    },
+    "3908": {
+        "name": "Sande Schule",
+        "latitude": "51.7589478",
+        "longitude": "8.6680139"
+    },
+    "3909": {
+        "name": "Sunderkampstraße",
+        "latitude": "51.7625057",
+        "longitude": "8.6504118"
+    },
+    "3910": {
+        "name": "Anemonenweg",
+        "latitude": "51.7596883",
+        "longitude": "8.6574576"
+    }
+}
