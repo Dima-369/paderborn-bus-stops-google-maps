@@ -1,4 +1,4 @@
-# Displays all bus stops in Padernborn with Google Maps markers
+# Displays bus stops in Paderborn with Google Maps markers
 
 On loading the website, it queries the times from all bus stops which takes quite some time.
 
