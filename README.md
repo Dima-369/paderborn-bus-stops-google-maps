@@ -7,7 +7,7 @@ On loading the website, it also queries the times from all bus stops which takes
 ## Notes
 
 * The `bus_stops.json` were scraped beforehand, a very long time ago, but I lost the script and don't quite remember where from
-  * The latitude and longitude are also not perfectly accurate
+  * The latitude and longitude are not perfectly accurate
 
 ## Screenshots
 
