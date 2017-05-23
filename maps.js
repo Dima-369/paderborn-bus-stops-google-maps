@@ -2,7 +2,7 @@ var map;
 var directionsDisplay;
 // if false, only the markers are displayed without any downloaded bus information which is almost
 // instant compared to downloading the bus data for each stop
-var showBusTimes = false;
+var showBusTimes = true;
 
 function initialize() {
 
